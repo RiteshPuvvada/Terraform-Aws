@@ -1,4 +1,4 @@
-add-content -path c:/Users/P.RITESH/.ssh/config -value @'
+add-content -path c:/Users/<user>/.ssh/config -value @'
 
 Host ${hostname}
   HostName ${hostname}
